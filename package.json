@@ -1,0 +1,16 @@
+{
+  "name": "webpack-plugins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "shelljs": "^0.7.6",
+    "webpack": "^1.14.0"
+  }
+}
